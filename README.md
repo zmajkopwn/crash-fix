@@ -24,7 +24,6 @@ This launcher is designed to protect SA:MP servers on Linux, fixing 99.99% of kn
 ### Installation
 - Download the server file manually, upload it to your hosting, and rename it as needed.
 - Adjust the configuration according to your hosting.
-- Run the script: `./samp_launcher.sh`
 
 ### Features
 - Exploit detection and blocking
